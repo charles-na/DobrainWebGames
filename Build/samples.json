@@ -1,0 +1,11 @@
+{
+"companyName": "DefaultCompany",
+"productName": "client",
+"dataUrl": "samples.data.unityweb",
+"asmCodeUrl": "samples.asm.code.unityweb",
+"asmMemoryUrl": "samples.asm.memory.unityweb",
+"asmFrameworkUrl": "samples.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
